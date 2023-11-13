@@ -1,1 +1,1 @@
-# shopiland
+Смоук-тестирование для shopiland.ru
