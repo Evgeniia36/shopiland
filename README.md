@@ -1,1 +1,1 @@
-Смоук-тестирование для shopiland.ru
+Файл test_shopiland.py содержит смоук-тестирование для shopiland.ru
